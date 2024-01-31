@@ -3,6 +3,7 @@
 ## Overview
 
 The Arduino SACode Interpreter is a program written in Arduino language that interprets SACode, a custom communication protocol. SACode consists of a set of symbols such as '@', '>', and '+', each representing specific commands. The program translates SACode input into corresponding actions, controlling LEDs based on the interpreted commands.
+I achieved a mark of 75% for this assignment.
 
 ## Table of Contents
 
